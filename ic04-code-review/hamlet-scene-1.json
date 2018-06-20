@@ -1,0 +1,1570 @@
+[
+  {
+    "line_number": "1.1.1", 
+    "speech_number": 1, 
+    "play_name": "Hamlet", 
+    "text_entry": "Who's there?", 
+    "line_id": 32436, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.2", 
+    "speech_number": 2, 
+    "play_name": "Hamlet", 
+    "text_entry": "Nay, answer me: stand, and unfold yourself.", 
+    "line_id": 32437, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.3", 
+    "speech_number": 3, 
+    "play_name": "Hamlet", 
+    "text_entry": "Long live the king!", 
+    "line_id": 32438, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.4", 
+    "speech_number": 4, 
+    "play_name": "Hamlet", 
+    "text_entry": "Bernardo?", 
+    "line_id": 32439, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.5", 
+    "speech_number": 5, 
+    "play_name": "Hamlet", 
+    "text_entry": "He.", 
+    "line_id": 32440, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.6", 
+    "speech_number": 6, 
+    "play_name": "Hamlet", 
+    "text_entry": "You come most carefully upon your hour.", 
+    "line_id": 32441, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.7", 
+    "speech_number": 7, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis now struck twelve; get thee to bed, Francisco.", 
+    "line_id": 32442, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.8", 
+    "speech_number": 8, 
+    "play_name": "Hamlet", 
+    "text_entry": "For this relief much thanks: 'tis bitter cold,", 
+    "line_id": 32443, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.9", 
+    "speech_number": 8, 
+    "play_name": "Hamlet", 
+    "text_entry": "And I am sick at heart.", 
+    "line_id": 32444, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.10", 
+    "speech_number": 9, 
+    "play_name": "Hamlet", 
+    "text_entry": "Have you had quiet guard?", 
+    "line_id": 32445, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.11", 
+    "speech_number": 10, 
+    "play_name": "Hamlet", 
+    "text_entry": "Not a mouse stirring.", 
+    "line_id": 32446, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.12", 
+    "speech_number": 11, 
+    "play_name": "Hamlet", 
+    "text_entry": "Well, good night.", 
+    "line_id": 32447, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.13", 
+    "speech_number": 11, 
+    "play_name": "Hamlet", 
+    "text_entry": "If you do meet Horatio and Marcellus,", 
+    "line_id": 32448, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.14", 
+    "speech_number": 11, 
+    "play_name": "Hamlet", 
+    "text_entry": "The rivals of my watch, bid them make haste.", 
+    "line_id": 32449, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.15", 
+    "speech_number": 12, 
+    "play_name": "Hamlet", 
+    "text_entry": "I think I hear them. Stand, ho! Who's there?", 
+    "line_id": 32450, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 12, 
+    "play_name": "Hamlet", 
+    "text_entry": "Enter HORATIO and MARCELLUS", 
+    "line_id": 32451, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.16", 
+    "speech_number": 13, 
+    "play_name": "Hamlet", 
+    "text_entry": "Friends to this ground.", 
+    "line_id": 32452, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.17", 
+    "speech_number": 14, 
+    "play_name": "Hamlet", 
+    "text_entry": "And liegemen to the Dane.", 
+    "line_id": 32453, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.18", 
+    "speech_number": 15, 
+    "play_name": "Hamlet", 
+    "text_entry": "Give you good night.", 
+    "line_id": 32454, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.19", 
+    "speech_number": 16, 
+    "play_name": "Hamlet", 
+    "text_entry": "O, farewell, honest soldier:", 
+    "line_id": 32455, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.20", 
+    "speech_number": 16, 
+    "play_name": "Hamlet", 
+    "text_entry": "Who hath relieved you?", 
+    "line_id": 32456, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.21", 
+    "speech_number": 17, 
+    "play_name": "Hamlet", 
+    "text_entry": "Bernardo has my place.", 
+    "line_id": 32457, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.22", 
+    "speech_number": 17, 
+    "play_name": "Hamlet", 
+    "text_entry": "Give you good night.", 
+    "line_id": 32458, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 17, 
+    "play_name": "Hamlet", 
+    "text_entry": "Exit", 
+    "line_id": 32459, 
+    "speaker": "FRANCISCO"
+  }, 
+  {
+    "line_number": "1.1.23", 
+    "speech_number": 18, 
+    "play_name": "Hamlet", 
+    "text_entry": "Holla! Bernardo!", 
+    "line_id": 32460, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.24", 
+    "speech_number": 19, 
+    "play_name": "Hamlet", 
+    "text_entry": "Say,", 
+    "line_id": 32461, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.25", 
+    "speech_number": 19, 
+    "play_name": "Hamlet", 
+    "text_entry": "What, is Horatio there?", 
+    "line_id": 32462, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.26", 
+    "speech_number": 20, 
+    "play_name": "Hamlet", 
+    "text_entry": "A piece of him.", 
+    "line_id": 32463, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.27", 
+    "speech_number": 21, 
+    "play_name": "Hamlet", 
+    "text_entry": "Welcome, Horatio: welcome, good Marcellus.", 
+    "line_id": 32464, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.28", 
+    "speech_number": 22, 
+    "play_name": "Hamlet", 
+    "text_entry": "What, has this thing appear'd again to-night?", 
+    "line_id": 32465, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.29", 
+    "speech_number": 23, 
+    "play_name": "Hamlet", 
+    "text_entry": "I have seen nothing.", 
+    "line_id": 32466, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.30", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "Horatio says 'tis but our fantasy,", 
+    "line_id": 32467, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.31", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "And will not let belief take hold of him", 
+    "line_id": 32468, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.32", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "Touching this dreaded sight, twice seen of us:", 
+    "line_id": 32469, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.33", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "Therefore I have entreated him along", 
+    "line_id": 32470, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.34", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "With us to watch the minutes of this night;", 
+    "line_id": 32471, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.35", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "That if again this apparition come,", 
+    "line_id": 32472, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.36", 
+    "speech_number": 24, 
+    "play_name": "Hamlet", 
+    "text_entry": "He may approve our eyes and speak to it.", 
+    "line_id": 32473, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.37", 
+    "speech_number": 25, 
+    "play_name": "Hamlet", 
+    "text_entry": "Tush, tush, 'twill not appear.", 
+    "line_id": 32474, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.38", 
+    "speech_number": 26, 
+    "play_name": "Hamlet", 
+    "text_entry": "Sit down awhile;", 
+    "line_id": 32475, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.39", 
+    "speech_number": 26, 
+    "play_name": "Hamlet", 
+    "text_entry": "And let us once again assail your ears,", 
+    "line_id": 32476, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.40", 
+    "speech_number": 26, 
+    "play_name": "Hamlet", 
+    "text_entry": "That are so fortified against our story", 
+    "line_id": 32477, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.41", 
+    "speech_number": 26, 
+    "play_name": "Hamlet", 
+    "text_entry": "What we have two nights seen.", 
+    "line_id": 32478, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.42", 
+    "speech_number": 27, 
+    "play_name": "Hamlet", 
+    "text_entry": "Well, sit we down,", 
+    "line_id": 32479, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.43", 
+    "speech_number": 27, 
+    "play_name": "Hamlet", 
+    "text_entry": "And let us hear Bernardo speak of this.", 
+    "line_id": 32480, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.44", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "Last night of all,", 
+    "line_id": 32481, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.45", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "When yond same star that's westward from the pole", 
+    "line_id": 32482, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.46", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "Had made his course to illume that part of heaven", 
+    "line_id": 32483, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.47", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "Where now it burns, Marcellus and myself,", 
+    "line_id": 32484, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.48", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "The bell then beating one,--", 
+    "line_id": 32485, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 28, 
+    "play_name": "Hamlet", 
+    "text_entry": "Enter Ghost", 
+    "line_id": 32486, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.49", 
+    "speech_number": 29, 
+    "play_name": "Hamlet", 
+    "text_entry": "Peace, break thee off; look, where it comes again!", 
+    "line_id": 32487, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.50", 
+    "speech_number": 30, 
+    "play_name": "Hamlet", 
+    "text_entry": "In the same figure, like the king that's dead.", 
+    "line_id": 32488, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.51", 
+    "speech_number": 31, 
+    "play_name": "Hamlet", 
+    "text_entry": "Thou art a scholar; speak to it, Horatio.", 
+    "line_id": 32489, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.52", 
+    "speech_number": 32, 
+    "play_name": "Hamlet", 
+    "text_entry": "Looks it not like the king?  mark it, Horatio.", 
+    "line_id": 32490, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.53", 
+    "speech_number": 33, 
+    "play_name": "Hamlet", 
+    "text_entry": "Most like: it harrows me with fear and wonder.", 
+    "line_id": 32491, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.54", 
+    "speech_number": 34, 
+    "play_name": "Hamlet", 
+    "text_entry": "It would be spoke to.", 
+    "line_id": 32492, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.55", 
+    "speech_number": 35, 
+    "play_name": "Hamlet", 
+    "text_entry": "Question it, Horatio.", 
+    "line_id": 32493, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.56", 
+    "speech_number": 36, 
+    "play_name": "Hamlet", 
+    "text_entry": "What art thou that usurp'st this time of night,", 
+    "line_id": 32494, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.57", 
+    "speech_number": 36, 
+    "play_name": "Hamlet", 
+    "text_entry": "Together with that fair and warlike form", 
+    "line_id": 32495, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.58", 
+    "speech_number": 36, 
+    "play_name": "Hamlet", 
+    "text_entry": "In which the majesty of buried Denmark", 
+    "line_id": 32496, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.59", 
+    "speech_number": 36, 
+    "play_name": "Hamlet", 
+    "text_entry": "Did sometimes march? by heaven I charge thee, speak!", 
+    "line_id": 32497, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.60", 
+    "speech_number": 37, 
+    "play_name": "Hamlet", 
+    "text_entry": "It is offended.", 
+    "line_id": 32498, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.61", 
+    "speech_number": 38, 
+    "play_name": "Hamlet", 
+    "text_entry": "See, it stalks away!", 
+    "line_id": 32499, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.62", 
+    "speech_number": 39, 
+    "play_name": "Hamlet", 
+    "text_entry": "Stay! speak, speak! I charge thee, speak!", 
+    "line_id": 32500, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 39, 
+    "play_name": "Hamlet", 
+    "text_entry": "Exit Ghost", 
+    "line_id": 32501, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.63", 
+    "speech_number": 40, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis gone, and will not answer.", 
+    "line_id": 32502, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.64", 
+    "speech_number": 41, 
+    "play_name": "Hamlet", 
+    "text_entry": "How now, Horatio! you tremble and look pale:", 
+    "line_id": 32503, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.65", 
+    "speech_number": 41, 
+    "play_name": "Hamlet", 
+    "text_entry": "Is not this something more than fantasy?", 
+    "line_id": 32504, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.66", 
+    "speech_number": 41, 
+    "play_name": "Hamlet", 
+    "text_entry": "What think you on't?", 
+    "line_id": 32505, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.67", 
+    "speech_number": 42, 
+    "play_name": "Hamlet", 
+    "text_entry": "Before my God, I might not this believe", 
+    "line_id": 32506, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.68", 
+    "speech_number": 42, 
+    "play_name": "Hamlet", 
+    "text_entry": "Without the sensible and true avouch", 
+    "line_id": 32507, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.69", 
+    "speech_number": 42, 
+    "play_name": "Hamlet", 
+    "text_entry": "Of mine own eyes.", 
+    "line_id": 32508, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.70", 
+    "speech_number": 43, 
+    "play_name": "Hamlet", 
+    "text_entry": "Is it not like the king?", 
+    "line_id": 32509, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.71", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "As thou art to thyself:", 
+    "line_id": 32510, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.72", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "Such was the very armour he had on", 
+    "line_id": 32511, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.73", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "When he the ambitious Norway combated;", 
+    "line_id": 32512, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.74", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "So frown'd he once, when, in an angry parle,", 
+    "line_id": 32513, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.75", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "He smote the sledded Polacks on the ice.", 
+    "line_id": 32514, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.76", 
+    "speech_number": 44, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis strange.", 
+    "line_id": 32515, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.77", 
+    "speech_number": 45, 
+    "play_name": "Hamlet", 
+    "text_entry": "Thus twice before, and jump at this dead hour,", 
+    "line_id": 32516, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.78", 
+    "speech_number": 45, 
+    "play_name": "Hamlet", 
+    "text_entry": "With martial stalk hath he gone by our watch.", 
+    "line_id": 32517, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.79", 
+    "speech_number": 46, 
+    "play_name": "Hamlet", 
+    "text_entry": "In what particular thought to work I know not;", 
+    "line_id": 32518, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.80", 
+    "speech_number": 46, 
+    "play_name": "Hamlet", 
+    "text_entry": "But in the gross and scope of my opinion,", 
+    "line_id": 32519, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.81", 
+    "speech_number": 46, 
+    "play_name": "Hamlet", 
+    "text_entry": "This bodes some strange eruption to our state.", 
+    "line_id": 32520, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.82", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Good now, sit down, and tell me, he that knows,", 
+    "line_id": 32521, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.83", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Why this same strict and most observant watch", 
+    "line_id": 32522, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.84", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "So nightly toils the subject of the land,", 
+    "line_id": 32523, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.85", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "And why such daily cast of brazen cannon,", 
+    "line_id": 32524, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.86", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "And foreign mart for implements of war;", 
+    "line_id": 32525, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.87", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Why such impress of shipwrights, whose sore task", 
+    "line_id": 32526, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.88", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Does not divide the Sunday from the week;", 
+    "line_id": 32527, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.89", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "What might be toward, that this sweaty haste", 
+    "line_id": 32528, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.90", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Doth make the night joint-labourer with the day:", 
+    "line_id": 32529, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.91", 
+    "speech_number": 47, 
+    "play_name": "Hamlet", 
+    "text_entry": "Who is't that can inform me?", 
+    "line_id": 32530, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.92", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "That can I;", 
+    "line_id": 32531, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.93", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "At least, the whisper goes so. Our last king,", 
+    "line_id": 32532, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.94", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Whose image even but now appear'd to us,", 
+    "line_id": 32533, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.95", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Was, as you know, by Fortinbras of Norway,", 
+    "line_id": 32534, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.96", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Thereto prick'd on by a most emulate pride,", 
+    "line_id": 32535, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.97", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Dared to the combat; in which our valiant Hamlet--", 
+    "line_id": 32536, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.98", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "For so this side of our known world esteem'd him--", 
+    "line_id": 32537, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.99", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Did slay this Fortinbras; who by a seal'd compact,", 
+    "line_id": 32538, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.100", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Well ratified by law and heraldry,", 
+    "line_id": 32539, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.101", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Did forfeit, with his life, all those his lands", 
+    "line_id": 32540, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.102", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Which he stood seized of, to the conqueror:", 
+    "line_id": 32541, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.103", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Against the which, a moiety competent", 
+    "line_id": 32542, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.104", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Was gaged by our king; which had return'd", 
+    "line_id": 32543, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.105", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "To the inheritance of Fortinbras,", 
+    "line_id": 32544, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.106", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Had he been vanquisher; as, by the same covenant,", 
+    "line_id": 32545, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.107", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "And carriage of the article design'd,", 
+    "line_id": 32546, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.108", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "His fell to Hamlet. Now, sir, young Fortinbras,", 
+    "line_id": 32547, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.109", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Of unimproved mettle hot and full,", 
+    "line_id": 32548, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.110", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Hath in the skirts of Norway here and there", 
+    "line_id": 32549, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.111", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Shark'd up a list of lawless resolutes,", 
+    "line_id": 32550, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.112", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "For food and diet, to some enterprise", 
+    "line_id": 32551, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.113", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "That hath a stomach in't; which is no other--", 
+    "line_id": 32552, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.114", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "As it doth well appear unto our state--", 
+    "line_id": 32553, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.115", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "But to recover of us, by strong hand", 
+    "line_id": 32554, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.116", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "And terms compulsatory, those foresaid lands", 
+    "line_id": 32555, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.117", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "So by his father lost: and this, I take it,", 
+    "line_id": 32556, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.118", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Is the main motive of our preparations,", 
+    "line_id": 32557, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.119", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "The source of this our watch and the chief head", 
+    "line_id": 32558, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.120", 
+    "speech_number": 48, 
+    "play_name": "Hamlet", 
+    "text_entry": "Of this post-haste and romage in the land.", 
+    "line_id": 32559, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.121", 
+    "speech_number": 49, 
+    "play_name": "Hamlet", 
+    "text_entry": "I think it be no other but e'en so:", 
+    "line_id": 32560, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.122", 
+    "speech_number": 49, 
+    "play_name": "Hamlet", 
+    "text_entry": "Well may it sort that this portentous figure", 
+    "line_id": 32561, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.123", 
+    "speech_number": 49, 
+    "play_name": "Hamlet", 
+    "text_entry": "Comes armed through our watch; so like the king", 
+    "line_id": 32562, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.124", 
+    "speech_number": 49, 
+    "play_name": "Hamlet", 
+    "text_entry": "That was and is the question of these wars.", 
+    "line_id": 32563, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.125", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "A mote it is to trouble the mind's eye.", 
+    "line_id": 32564, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.126", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "In the most high and palmy state of Rome,", 
+    "line_id": 32565, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.127", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "A little ere the mightiest Julius fell,", 
+    "line_id": 32566, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.128", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "The graves stood tenantless and the sheeted dead", 
+    "line_id": 32567, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.129", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Did squeak and gibber in the Roman streets:", 
+    "line_id": 32568, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.130", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "As stars with trains of fire and dews of blood,", 
+    "line_id": 32569, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.131", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Disasters in the sun; and the moist star", 
+    "line_id": 32570, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.132", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Upon whose influence Neptune's empire stands", 
+    "line_id": 32571, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.133", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Was sick almost to doomsday with eclipse:", 
+    "line_id": 32572, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.134", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "And even the like precurse of fierce events,", 
+    "line_id": 32573, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.135", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "As harbingers preceding still the fates", 
+    "line_id": 32574, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.136", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "And prologue to the omen coming on,", 
+    "line_id": 32575, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.137", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Have heaven and earth together demonstrated", 
+    "line_id": 32576, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.138", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Unto our climatures and countrymen.--", 
+    "line_id": 32577, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.139", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "But soft, behold! lo, where it comes again!", 
+    "line_id": 32578, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Re-enter Ghost", 
+    "line_id": 32579, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.140", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "I'll cross it, though it blast me. Stay, illusion!", 
+    "line_id": 32580, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.141", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "If thou hast any sound, or use of voice,", 
+    "line_id": 32581, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.142", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Speak to me:", 
+    "line_id": 32582, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.143", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "If there be any good thing to be done,", 
+    "line_id": 32583, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.144", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "That may to thee do ease and grace to me,", 
+    "line_id": 32584, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.145", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Speak to me:", 
+    "line_id": 32585, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Cock crows", 
+    "line_id": 32586, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.146", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "If thou art privy to thy country's fate,", 
+    "line_id": 32587, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.147", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Which, happily, foreknowing may avoid, O, speak!", 
+    "line_id": 32588, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.148", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Or if thou hast uphoarded in thy life", 
+    "line_id": 32589, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.149", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Extorted treasure in the womb of earth,", 
+    "line_id": 32590, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.150", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "For which, they say, you spirits oft walk in death,", 
+    "line_id": 32591, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.151", 
+    "speech_number": 50, 
+    "play_name": "Hamlet", 
+    "text_entry": "Speak of it: stay, and speak! Stop it, Marcellus.", 
+    "line_id": 32592, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.152", 
+    "speech_number": 51, 
+    "play_name": "Hamlet", 
+    "text_entry": "Shall I strike at it with my partisan?", 
+    "line_id": 32593, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.153", 
+    "speech_number": 52, 
+    "play_name": "Hamlet", 
+    "text_entry": "Do, if it will not stand.", 
+    "line_id": 32594, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.154", 
+    "speech_number": 53, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis here!", 
+    "line_id": 32595, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.155", 
+    "speech_number": 54, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis here!", 
+    "line_id": 32596, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.156", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "'Tis gone!", 
+    "line_id": 32597, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "Exit Ghost", 
+    "line_id": 32598, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.157", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "We do it wrong, being so majestical,", 
+    "line_id": 32599, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.158", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "To offer it the show of violence;", 
+    "line_id": 32600, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.159", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "For it is, as the air, invulnerable,", 
+    "line_id": 32601, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.160", 
+    "speech_number": 55, 
+    "play_name": "Hamlet", 
+    "text_entry": "And our vain blows malicious mockery.", 
+    "line_id": 32602, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.161", 
+    "speech_number": 56, 
+    "play_name": "Hamlet", 
+    "text_entry": "It was about to speak, when the cock crew.", 
+    "line_id": 32603, 
+    "speaker": "BERNARDO"
+  }, 
+  {
+    "line_number": "1.1.162", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "And then it started like a guilty thing", 
+    "line_id": 32604, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.163", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "Upon a fearful summons. I have heard,", 
+    "line_id": 32605, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.164", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "The cock, that is the trumpet to the morn,", 
+    "line_id": 32606, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.165", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "Doth with his lofty and shrill-sounding throat", 
+    "line_id": 32607, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.166", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "Awake the god of day; and, at his warning,", 
+    "line_id": 32608, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.167", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "Whether in sea or fire, in earth or air,", 
+    "line_id": 32609, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.168", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "The extravagant and erring spirit hies", 
+    "line_id": 32610, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.169", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "To his confine: and of the truth herein", 
+    "line_id": 32611, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.170", 
+    "speech_number": 57, 
+    "play_name": "Hamlet", 
+    "text_entry": "This present object made probation.", 
+    "line_id": 32612, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.171", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "It faded on the crowing of the cock.", 
+    "line_id": 32613, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.172", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "Some say that ever 'gainst that season comes", 
+    "line_id": 32614, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.173", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "Wherein our Saviour's birth is celebrated,", 
+    "line_id": 32615, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.174", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "The bird of dawning singeth all night long:", 
+    "line_id": 32616, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.175", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "And then, they say, no spirit dares stir abroad;", 
+    "line_id": 32617, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.176", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "The nights are wholesome; then no planets strike,", 
+    "line_id": 32618, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.177", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "No fairy takes, nor witch hath power to charm,", 
+    "line_id": 32619, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.178", 
+    "speech_number": 58, 
+    "play_name": "Hamlet", 
+    "text_entry": "So hallow'd and so gracious is the time.", 
+    "line_id": 32620, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.179", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "So have I heard and do in part believe it.", 
+    "line_id": 32621, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.180", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "But, look, the morn, in russet mantle clad,", 
+    "line_id": 32622, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.181", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "Walks o'er the dew of yon high eastward hill:", 
+    "line_id": 32623, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.182", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "Break we our watch up; and by my advice,", 
+    "line_id": 32624, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.183", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "Let us impart what we have seen to-night", 
+    "line_id": 32625, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.184", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "Unto young Hamlet; for, upon my life,", 
+    "line_id": 32626, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.185", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "This spirit, dumb to us, will speak to him.", 
+    "line_id": 32627, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.186", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "Do you consent we shall acquaint him with it,", 
+    "line_id": 32628, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.187", 
+    "speech_number": 59, 
+    "play_name": "Hamlet", 
+    "text_entry": "As needful in our loves, fitting our duty?", 
+    "line_id": 32629, 
+    "speaker": "HORATIO"
+  }, 
+  {
+    "line_number": "1.1.188", 
+    "speech_number": 60, 
+    "play_name": "Hamlet", 
+    "text_entry": "Let's do't, I pray; and I this morning know", 
+    "line_id": 32630, 
+    "speaker": "MARCELLUS"
+  }, 
+  {
+    "line_number": "1.1.189", 
+    "speech_number": 60, 
+    "play_name": "Hamlet", 
+    "text_entry": "Where we shall find him most conveniently.", 
+    "line_id": 32631, 
+    "speaker": "MARCELLUS"
+  }
+]
